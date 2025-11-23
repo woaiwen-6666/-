@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Homework AI Grader",
+  "description": "An intelligent homework assistant that grades assignments, checks answers, and provides detailed feedback using computer vision.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

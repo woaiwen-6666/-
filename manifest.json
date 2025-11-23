@@ -1,0 +1,21 @@
+{
+  "short_name": "AI批改",
+  "name": "AI 智能作业批改",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/167/167707.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/167/167707.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#F8F9FE",
+  "display": "standalone",
+  "theme_color": "#F8F9FE",
+  "orientation": "portrait"
+}
